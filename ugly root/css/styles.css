@@ -10,11 +10,17 @@ h1{
     font-family: "Eater", serif;
     font-weight: 400;
     font-style: normal;
+    width:1500px;
+    height: 100px;
 }
 body{
     background-color:rgb(116, 123, 18);
     background-image: url("../img/ugly.jpg");
     width: 600px;
 }
-
+h3 {
+    background-image:url(../img/chicken.jpg);
+    width: 1000px;
+    height: 1000px;
+}
   
